@@ -18,7 +18,7 @@ LANGUAGES:
 ![csharp badge](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=C#&logoColor=white)
 
 
-**TOOLS:
+***TOOLS:
 
 ![android studio Badge](https://img.shields.io/badge/AndroidStudio-black?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![unity badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white)

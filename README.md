@@ -3,7 +3,7 @@
 
 Hello! On the internet I appear under the name Wise, I'm a college student pursuing computer science 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+make+Games+and+mobile+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+make+Games;and+mobile+applications)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-394&show_icons=true&theme=transparent)
 <div align="center"> 

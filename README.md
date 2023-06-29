@@ -8,7 +8,7 @@ Hello! On the internet I appear under the name Wise, I'm a college student pursu
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wise-394&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"/> 
  </div> 
 
-## 🛠 TechStack
+## <b>TechStack</b>
 
 ![c](https://img.shields.io/badge/C-black?style=for-the-badge&logo=?&logoColor=white)
 ![jav](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)
@@ -21,7 +21,7 @@ Hello! On the internet I appear under the name Wise, I'm a college student pursu
 
 
 
-## 🔗 Links
+##  <b>Socials</b>
 [![twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wise_394?)
 
 [![itch](https://img.shields.io/badge/itch-black?style=for-the-badge&logo=itch.io&logoColor=white)](https://wise-394.itch.io/)

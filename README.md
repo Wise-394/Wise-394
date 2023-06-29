@@ -12,7 +12,7 @@ Hello! On the internet I appear under the name Wise, I'm a college student pursu
 
 [![c](https://img.shields.io/badge/C-black?style=for-the-badge&logo=&logoColor=white)](https://twitter.com/Wise_394?)
 
-[![c](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=white)](https://twitter.com/Wise_394?)
+[![c](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)](https://twitter.com/Wise_394?)
 
 ![kt Badge](https://img.shields.io/badge/Kotlin-purple)
 ![android studio Badge](https://img.shields.io/badge/Android_Studio-green)

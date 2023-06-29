@@ -16,6 +16,7 @@ Hello! On the internet I appear under the name Wise, I'm a college student pursu
 ![android studio Badge](https://img.shields.io/badge/AndroidStudio-black?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![unity badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white)
 ![git badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)
+![csharp badge](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=C#&logoColor=white)
 
 
 

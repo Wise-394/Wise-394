@@ -1,5 +1,8 @@
 
 ## 🧑‍💻 WhoAmI
+<div align="center"> 
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wise-394&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" /> 
+ </div> 
 Hello! On the internet I appear under the name Wise, I'm a college student pursuing computer science 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+make+Games;and+mobile+applications)](https://git.io/typing-svg)

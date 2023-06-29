@@ -22,9 +22,9 @@ Hello! On the internet I appear under the name Wise, I'm a college student pursu
 
 
 ## 🔗 Links
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wise_394?)
+[![twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wise_394?)
 
-[![itch](https://img.shields.io/badge/itch-orange?style=for-the-badge&logo=itch.io&logoColor=white)](https://wise-394.itch.io/)
+[![itch](https://img.shields.io/badge/itch-black?style=for-the-badge&logo=itch.io&logoColor=white)](https://wise-394.itch.io/)
 
 
 

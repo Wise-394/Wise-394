@@ -1,13 +1,14 @@
 
 ## 🧑‍💻 WhoAmI
+
+Hello! On the internet I appear under the name Wise, I'm a college student pursuing computer science 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+make+Games+and+mobile+applications)](https://git.io/typing-svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-394&show_icons=true&theme=transparent)
 <div align="center"> 
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wise-394&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" /> 
  </div> 
-Hello! On the internet I appear under the name Wise, I'm a college student pursuing computer science 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+make+Games;and+mobile+applications)](https://git.io/typing-svg)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-394&show_icons=true&theme=transparent)
 ## 🛠 TechStack
 ![c++ Badge](https://img.shields.io/badge/c%2Fc%2B%2B-red)
 ![java Badge](https://img.shields.io/badge/Java-red)

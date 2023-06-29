@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=WhoAmI&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 Hello! On the internet I appear under the name Wise, I'm a college student pursuing computer science 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+make+Games;and+mobile+applications)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+make+Games;and+mobile+applications)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-394&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-394&show_icons=true&theme=transparent)
 <div align="center"> 
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wise-394&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"/> 
  </div> 
@@ -17,7 +17,7 @@ Hello! On the internet I appear under the name Wise, I'm a college student pursu
 ![unity badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white)
 ![git badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)
 ![csharp badge](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=C#&logoColor=white)
-
+![vscode badge](https://img.shields.io/badge/Vscode-black?style=for-the-badge&logo=vscode&logoColor=white)
 
 
 

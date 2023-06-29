@@ -1,5 +1,4 @@
-
-## 🧑‍💻 WhoAmI
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=Wise-394&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 Hello! On the internet I appear under the name Wise, I'm a college student pursuing computer science 
 

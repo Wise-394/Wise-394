@@ -9,7 +9,7 @@ Hello! On the internet I appear under the name Wise, I'm a college student pursu
 <div align="center"> 
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wise-394&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"/> 
  
-   [![wakatime](https://wakatime.com/badge/user/ab38c3e5-ffca-4677-9484-e3e6f237dea5.svg)](https://wakatime.com/@ab38c3e5-ffca-4677-9484-e3e6f237dea5)
+   [![wakatime](https://wakatime.com/badge/user/2ab71fe0-c148-4aba-b326-8e840d42a8cb.svg)](https://wakatime.com/@2ab71fe0-c148-4aba-b326-8e840d42a8cb)
  </div> 
 
 ## <b>TechStack</b>

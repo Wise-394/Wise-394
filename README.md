@@ -16,8 +16,8 @@ Hello! On the internet I appear under the name Wise, I'm a college student pursu
 
 <b>LANGUAGES:</b>
 
-![c](https://img.shields.io/badge/C-black?style=for-the-badge&logo=?&logoColor=white)
-![jav](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)
+![c](https://img.shields.io/badge/C-black?style=for-the-badge&logo=Clang?&logoColor=white)
+![jav](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=javaLang&logoColor=white)
 ![kt](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white)
 ![csharp badge](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=C#&logoColor=white)
 ![dart badge](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=white)

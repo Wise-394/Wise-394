@@ -4,12 +4,10 @@ Hello! On the internet I appear under the name Wise, I'm a college student pursu
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+make+Games;and+i+love+to+make+mobile+apps)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-394&show_icons=true&theme=transparent)
- </div> 
-<div align="center"> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-394&show_icons=true&theme=transparent) 
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wise-394&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"/> 
  
-   [![wakatime](https://wakatime.com/badge/user/2ab71fe0-c148-4aba-b326-8e840d42a8cb.svg)](https://wakatime.com/@2ab71fe0-c148-4aba-b326-8e840d42a8cb)
+  [![wakatime](https://wakatime.com/badge/user/ab38c3e5-ffca-4677-9484-e3e6f237dea5.svg)](https://wakatime.com/@ab38c3e5-ffca-4677-9484-e3e6f237dea5)
  </div> 
 
 ## <b>TechStack</b>

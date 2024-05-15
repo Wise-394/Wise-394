@@ -20,6 +20,7 @@ Hello! On the internet I appear under the name Wise, I'm a college student pursu
 ![csharp badge](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=C#&logoColor=white)
 ![dart badge](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=white)
 ![visual-basic](https://img.shields.io/badge/VB-black?style=for-the-badge&logo=Clang?&logoColor=white)
+![python badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=dart&logoColor=white)
 
 <b>Frameworks/IDES/Others:</b>
 
@@ -28,6 +29,7 @@ Hello! On the internet I appear under the name Wise, I'm a college student pursu
 ![git badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)
 ![vscode badge](https://img.shields.io/badge/Vscode-black?style=for-the-badge&logo=visualStudioCode&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter&logoColor=white)
+![dotnet Badge](https://img.shields.io/badge/dotnet-black?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 
 ##  <b>Socials</b>

@@ -19,7 +19,8 @@ Hello! On the internet I appear under the name Wise, I'm a college student pursu
 ![kt](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white)
 ![csharp badge](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=C#&logoColor=white)
 ![dart badge](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=white)
-![visual-basic](https://img.shields.io/badge/Vb-black?s
+![visual-basic](https://img.shields.io/badge/VB-black?style=for-the-badge&logo=Clang?&logoColor=white)
+
 <b>Frameworks/IDES/Others:</b>
 
 ![android studio Badge](https://img.shields.io/badge/AndroidStudio-black?style=for-the-badge&logo=androidstudio&logoColor=white)

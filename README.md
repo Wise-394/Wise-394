@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=WhoAmI&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 <div align="center"> 
-Hello! On the internet I appear under the name Wise, I'm a college student pursuing computer science 
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+make+Games;and+i+love+to+make+mobile+apps)
 

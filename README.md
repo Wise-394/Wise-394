@@ -7,7 +7,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-394&show_icons=true&theme=transparent) 
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wise-394&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"/> 
  
-[![wakatime](https://wakatime.com/badge/user/2ab71fe0-c148-4aba-b326-8e840d42a8cb.svg)](https://wakatime.com/@2ab71fe0-c148-4aba-b326-8e840d42a8cb)
+<a href="https://wakatime.com/@2ab71fe0-c148-4aba-b326-8e840d42a8cb"><img src="https://wakatime.com/badge/user/2ab71fe0-c148-4aba-b326-8e840d42a8cb.svg" alt="Total time coded since Jul 4 2023" /></a>
  </div> 
 
 ## <b>TechStack</b>

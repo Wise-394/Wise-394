@@ -1,40 +1,62 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=WhoAmI&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-<div align="center"> 
 
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+make+Games;and+i+love+to+make+mobile+apps)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+make+Games;I+love+to+make+Mobile+Apps;I+do+Fullstack+Development)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-394&show_icons=true&theme=transparent) 
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wise-394&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"/> 
- 
-<a href="https://wakatime.com/@2ab71fe0-c148-4aba-b326-8e840d42a8cb"><img src="https://wakatime.com/badge/user/2ab71fe0-c148-4aba-b326-8e840d42a8cb.svg" alt="Total time coded since Jul 4 2023" /></a>
- </div> 
+<br/>
 
-## <b>TechStack</b>
+🎓 BS Computer Science Graduate &nbsp;|&nbsp; 💻 Fullstack Developer &nbsp;|&nbsp; 🌐 [jrdumlao.com](https://jrdumlao.com)
 
-<b>LANGUAGES:</b>
+<br/>
 
-![c](https://img.shields.io/badge/C-black?style=for-the-badge&logo=Clang?&logoColor=white)
-![jav](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=javaLang&logoColor=white)
-![kt](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white)
-![csharp badge](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=C#&logoColor=white)
-![dart badge](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=white)
-![visual-basic](https://img.shields.io/badge/VisualBasic-black?style=for-the-badge&logo=visualbasic&logoColor=white)
-![python badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=wise-394&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)
 
-<b>Frameworks/IDES/Others:</b>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-394&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=wise-394&theme=tokyonight&hide_border=true&background=0d1117)
 
-![android studio Badge](https://img.shields.io/badge/AndroidStudio-black?style=for-the-badge&logo=androidstudio&logoColor=white)
-![unity badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white)
-![git badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)
-![vscode badge](https://img.shields.io/badge/Vscode-black?style=for-the-badge&logo=visualStudioCode&logoColor=white)
-![flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter&logoColor=white)
-![dotnet Badge](https://img.shields.io/badge/dotnet-black?style=for-the-badge&logo=dotnet&logoColor=white)
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wise-394&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"/>
 
+</div>
 
-##  <b>Socials</b>
-[![twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/UnwiseDev)
-[![itch](https://img.shields.io/badge/itch-black?style=for-the-badge&logo=itch.io&logoColor=white)](https://wise-394.itch.io/)
+---
 
+## 🛠️ Tech Stack
 
+**Frontend**
 
+![react](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=7aa2f7)
+![javascript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=7aa2f7)
+![html5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=7aa2f7)
+![css3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7aa2f7)
+
+**Backend**
+
+![express](https://img.shields.io/badge/Express.js-1a1b27?style=for-the-badge&logo=express&logoColor=7aa2f7)
+![nodejs](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=7aa2f7)
+![fastapi](https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=7aa2f7)
+![sql](https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
+
+**Mobile & Game**
+
+![flutter](https://img.shields.io/badge/Flutter-1a1b27?style=for-the-badge&logo=flutter&logoColor=7aa2f7)
+![reactnative](https://img.shields.io/badge/React_Native-1a1b27?style=for-the-badge&logo=react&logoColor=7aa2f7)
+![androidstudio](https://img.shields.io/badge/Android_Studio-1a1b27?style=for-the-badge&logo=androidstudio&logoColor=7aa2f7)
+![godot](https://img.shields.io/badge/Godot-1a1b27?style=for-the-badge&logo=godotengine&logoColor=7aa2f7)
+
+**Tools & Testing**
+
+![git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=7aa2f7)
+![jest](https://img.shields.io/badge/Jest-1a1b27?style=for-the-badge&logo=jest&logoColor=7aa2f7)
+![vitest](https://img.shields.io/badge/Vitest-1a1b27?style=for-the-badge&logo=vitest&logoColor=7aa2f7)
+![postman](https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=7aa2f7)
+![vercel](https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=7aa2f7)
+
+---
+
+## 🌐 Socials
+
+[![portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=firefox&logoColor=7aa2f7)](https://jrdumlao.com)
+[![itch](https://img.shields.io/badge/itch.io-1a1b27?style=for-the-badge&logo=itch.io&logoColor=7aa2f7)](https://wise-394.itch.io/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=100&section=footer"/>

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+to+make+Games;I+love+to+make+Mobile+Apps;I+do+Fullstack+Development)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+do+Fullstack+Development)
 
 <br/>
 

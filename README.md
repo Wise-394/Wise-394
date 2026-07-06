@@ -6,10 +6,6 @@
 
 <br/>
 
-🎓 BS Computer Science Graduate &nbsp;|&nbsp; 💻 Fullstack Developer &nbsp;|&nbsp; 🌐 [jrdumlao.com](https://jrdumlao.com)
-
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=wise-394&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-394&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
